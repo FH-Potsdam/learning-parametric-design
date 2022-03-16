@@ -1,0 +1,17 @@
+{
+  "liveServer.settings.port": 5555,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.fullReload": true,
+  "liveServer.settings.ignoreFiles": [
+    ".vscode/**",
+    "**/*.scss",
+    "**/*.sass",
+    "**/*.ts",
+    "**/*.png",
+    "**/*.jpg",
+    "**/*.jpeg",
+    "**/*.gif",
+    "**/*.stl",
+    "**/*.svg"
+  ]
+}
