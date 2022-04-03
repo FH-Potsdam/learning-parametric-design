@@ -22,10 +22,10 @@ The lectures folder holds code from the teaching materials.
 
 ## Lecturer
 **Sebastian Meier**
-[GitHub](https://github.com/sebastian_meier)
-[Twitter](https://twitter.com/seb_meier)
-[University](https://www.fh-potsdam.de/studieren/fachbereiche/design/personen/detail/person-action/sebastian-meier/show/Person/)
-[Personal](https://sebastianmeier.eu)
+- [GitHub](https://github.com/sebastian_meier)
+- [Twitter](https://twitter.com/seb_meier)
+- [University](https://www.fh-potsdam.de/studieren/fachbereiche/design/personen/detail/person-action/sebastian-meier/show/Person/)
+- [Personal](https://sebastianmeier.eu)
 
 ## Feedback
 If you have ideas how to improve this class, you find an error or something else, simply use GitHub's [issue system](https://github.com/FH-Potsdam/teaching-parametric-design/issues) and [create a new issue](https://github.com/FH-Potsdam/teaching-parametric-design/issues/new). I will try to respond as soon as possible.
