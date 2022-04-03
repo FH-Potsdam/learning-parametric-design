@@ -1,14 +1,12 @@
 [Deutsche Version](README_de.md)
 # Parametric Design
 ![Parametric Design](https://github.com/FH-Potsdam/teaching-parametric-design/blob/main/parametric-design.png?raw=true)
-Teaching Material for the "Parametric Design" seminar at the [design department](https://www.fh-potsdam.de/design/) at the Potsdam University of Applied Sciences.
+This is the companion repository for the ["Learning Parametric Design"](https://github.com/fh-potsdam/teaching-parametric-design) repository at the [design department](https://www.fh-potsdam.de/design/) at the Potsdam University of Applied Sciences.
 
 **Welcome to parametric design 👋**
-This seminar is an introduction creating design artifacts with code. In contrast to other creative coding classes, we take a specific focus on how to use code to create digital artifacts that we can use in other software or even rapid prototyping tools like laser cutters/engravers, CNC machines, 3D-printers or even stitching machines.
+This seminar is an introduction creating design artifacts with code. In contrast to other creative coding classes, we take a specific focus on how to use code to create digital artifacts that we can use in other software or even rapid prototyping tools like laser cutters/engravers, CNC milling machines, 3D-printers or even stitching machines.
 
 You need no prior knowledge of any of those tools and systems. You just need to bring a little curiosity.
-
-More about the goals and context of this class in the [introduction lecture](lectures/01-introduction/index.md).
 
 ## Structure of the repo
 
@@ -16,15 +14,10 @@ More about the goals and context of this class in the [introduction lecture](lec
 you are here
 
 **code/...**
-Here you will find code samples and it is recommended that you place your projects here as well, more about that later.
+Here you will find code boilerplates and it is recommended that you place your projects here as well, more about that in the learning repo.
 
 **lectures/...**
-The lectures folder holds the actual teaching materials. 
-
-## Didactic concept
-1. The contents of this class are available in german, english and (coming soon) german sign language. The primary input is provided in videos. As a summary of the videos, additional text is provided. Any links or code mentionend in the videos is also provided as text below the videos for easy access. When the videos include presentations, those are also available as PDFs.
-2. It is recommended that you simply create a fork of this repo and then go crazy. The [first lecture](lectures/01-introduction/index.md) will explain how to do this.
-
+The lectures folder holds code from the teaching materials. 
 
 ## Lecturer
 **Sebastian Meier**
