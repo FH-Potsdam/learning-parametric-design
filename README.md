@@ -1,5 +1,5 @@
 # Parametric Design
-![Parametric Design](https://github.com/FH-Potsdam/teaching-parametric-design/blob/main/thumbnail.png?raw=true)
+![Parametric Design](https://github.com/FH-Potsdam/learning-parametric-design/blob/main/thumbnail.png?raw=true)
 This is the companion repository for the ["Learning Parametric Design"](https://github.com/fh-potsdam/teaching-parametric-design) repository at the [design department](https://www.fh-potsdam.de/design/) at the Potsdam University of Applied Sciences.
 
 ## Welcome to parametric design 👋
