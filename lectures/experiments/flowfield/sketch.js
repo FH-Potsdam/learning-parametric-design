@@ -1,16 +1,16 @@
 let params = {
-  num: 1000,
-  noiseScale: 500,
-  noiseStrength: 5,
-  transparency: 100,
-  maxLength: 100,
-  maxWidth: 5,
+  num: 4500, // 1000,
+  noiseScale: 550, // 500,
+  noiseStrength: 2.6, // 5,
+  transparency: 255, // 100,
+  maxLength: 45, // 100,
+  maxWidth: 1, // 5,
   numColors: 5,
-  color1: '#58A69E',
-  color2: '#F2F2F2',
-  color3: '#D92B04',
-  color4: '#8C2016',
-  color5: '#590202'
+  color1: 'rgb(255,255,255)', // '#58A69E',
+  color2: 'rgb(200,200,200)', // '#F2F2F2',
+  color3: 'rgb(155,155,155)', // '#D92B04',
+  color4: 'rgb(100,100,100)', // '#8C2016',
+  color5: 'rgb(55,55,55)'  // '#590202'
 };
 
 let gui;
@@ -53,6 +53,7 @@ function reset() {
 }
 
 function draw() {
+  clear();
   background(0);
   if (processCount >= params.maxLength) {
     for (let i = 0; i < particles.length; i++) {
@@ -127,5 +128,11 @@ class Particle{
       curveVertex(this.positions[i].x, this.positions[i].y);
     }    
     endShape();
+  }
+}
+
+function keyReleased() {
+  if (keyCode === ENTER) {
+    save('flowfield.png');
   }
 }
