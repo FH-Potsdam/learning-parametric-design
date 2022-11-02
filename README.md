@@ -2,7 +2,6 @@
 ![Parametric Design](https://github.com/FH-Potsdam/learning-parametric-design/blob/main/thumbnail.png?raw=true)
 This is the companion repository for the ["Learning Parametric Design"](https://github.com/fh-potsdam/teaching-parametric-design) repository at the [design department](https://www.fh-potsdam.de/design/) at the Potsdam University of Applied Sciences.
 
-TEST
 ## Welcome to parametric design 👋
 This seminar is an introduction creating design artifacts with code. In contrast to other creative coding classes, we take a specific focus on how to use code to create digital artifacts that we can use in other software or even rapid prototyping tools like laser cutters/engravers, CNC milling machines, 3D-printers or even stitching machines.
 
